@@ -40,20 +40,39 @@ Here are a few examples of the customizations in action:
 - [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) for Windows Explorer modifications.
 
 
-## Installation
+## Setup Instructions
+
+### 0. Clone Repository
 1. Clone this repository:
 ```bash
    git clone https://github.com/ShubhamGajjar/windows-11-customizer.git
 ```
-2. Install the Windhawk app from here.
-3. Import the provided mod settings into Windhawk:
+
+### 1. Install Windhawk
+- Download and install Windhawk from its [official website](https://windhawk.net).
+
+### 2. Install Required Mods
 - Open the Windhawk app.
-- Go to the "Mods" section and click "Import".
-- Select the .whk file(s) from this repository.
-4. For Windows Explorer enhancements:
-- Clone the [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) repository and follow its installation instructions.
-- Optionally, use the pre-configured settings in this repo's explorer/ directory.
-5. Apply the mods and restart your system to see the changes.
+- Go to the "Mods" section to browse installed mods.
+- Ensure the following mods are installed:
+  - **Slick Window Arrangement**
+  - **Taskbar Clock Customization**
+  - **Taskbar Height and Icon Size**
+  - **Taskbar Labels for Windows 11**
+  - **Windows 11 Notification Center Styler**
+  - **Windows 11 Start Menu Styler**
+  - **Windows 11 Taskbar Styler**
+
+### 3. Import or Copy Advanced Settings
+- Select a mod (e.g., Taskbar, Start Menu, Notification Center, Clock, etc.).
+- Click on **Details** and then go to the **Advanced** tab.
+- Choose one of the following options:
+  - **Import Settings**: Click "Import" and upload the corresponding `.whk` file from the `mods/` folder in this repository.
+  - **Copy Code**: Open the `.whk` file in any text editor, copy the code, and paste it into the input box in Windhawk's Advanced settings.
+
+### 4. Save and Restart
+- After importing or pasting the settings, click **Save** to activate the mod.
+- Restart your system (if required) to see the changes.
 
 
 ## Usage
@@ -62,10 +81,12 @@ Here are a few examples of the customizations in action:
 3. Apply modifications using the Windhawk app as described in the installation steps.
 4. For Windows Explorer, follow the instructions from the ExplorerBlurMica repository.
 
+
 ## Acknowledgments
 This project draws inspiration and support from:
 - [Windhawk](https://windhawk.net) for its powerful modding capabilities.
 - [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) for enabling stunning Mica blur effects in Windows Explorer.
+
 
 ## Contributing
 We welcome contributions to enhance the functionality of this project. If you'd like to contribute:
