@@ -31,6 +31,8 @@ Here are a few examples of the customizations in action:
 ### Enhanced Windows Explorer
 ![Windows Explorer](screenshots/windows_explorer.png)
 
+### Customized Quick Tiles
+![Quick Tiles](screenshots/quick_tiles.png) 
 
 ## Requirements
 - Windows 11
@@ -75,7 +77,7 @@ We welcome contributions to enhance the functionality of this project. If you'd 
 
 
 ## License
-This project is licensed under the [MIT License](https://github.com/ShubhamGajjar/Windows-11-Customizer/blob/main/LICENSE).
+This project is licensed under the [MIT License](/LICENSE).
 
 
 ## Disclaimer
