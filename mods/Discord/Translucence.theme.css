@@ -1,0 +1,70 @@
+ /**
+ * @name Translucence
+ * @version 1.0.6.3
+ * @description A translucent/frosted glass Discord theme
+ * @author CapnKitten
+ *
+ * @website http://github.com/CapnKitten
+ * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
+ * @donate https://paypal.me/capnkitten
+ * @invite jzJkA6Z
+ */
+
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+
+:root {
+	--app-bg: rgba(0, 0, 0, 0.18);
+	--app-blur: 6px;
+	--app-margin: 2px;
+	--app-radius: 10px; /*	-	*/
+	
+	--accent-hue: 220;
+	--accent-saturation: 0%;
+	--accent-lightness: 82%;
+	--accent-opacity: 0.2;
+	--accent-text-color: rgb(255, 255, 255); /*	-	*/
+
+	--sidebar-color: rgba(255, 0, 0, 0);
+	--main-content-color: rgba(255, 17, 17, 0); /*	-	*/
+  
+	--message-color: rgba(0,0,0,0.12);
+	--message-radius: 8px;
+	--message-padding-top: 8px;
+	--message-padding-side: 8px; /*	-	*/
+	
+	--reply-hue: 226;
+	--reply-saturation: 77.4%;
+	--reply-lightness: 61.8%;
+	--reply-opacity: 1; /*	-	*/
+
+	--textarea-color: 255,255,255;
+	--textarea-alpha: 0.1;
+	--textarea-alpha-focus: 0.15;
+	--textarea-text-color: #fff;
+	--textarea-radius: 22px;  /*	-	*/
+
+	--card-color: rgba(0,0,0,0.1);
+	--card-color-hover: rgba(0,0,0,0.3);
+	--card-color-select: rgba(0,0,0,0.5); /*	-	*/
+	
+	--button-height: 32px;
+	--button-padding: 0 16px;
+	--button-action-color: #000;
+	--button-radius: 16px; /*	-	*/
+
+	--popout-color: rgba(0,0,0,0.5);
+	--popout-blur: 0.5;
+	--popout-header-opacity: 0.3;
+	--popout-header-shadow: 0px 3px 9px 0px rgba(0,0,0, 0.25);
+	--popout-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.1);
+	--popout-radius: 12px;
+	--popout-shadow: 0px 8px 10px 1px rgba(0,0,0, 0.14);
+
+	--interactive-normal: #d3d3d3;
+	--interactive-hover: #fff;
+	--interactive-active: #fff;
+	--interactive-muted: #777; /*	-	*/
+
+	--background-modifier-hover: rgba(255, 255, 255, 0.4);
+	--background-modifier-selected: rgba(255,255,255,0.2);
+}
