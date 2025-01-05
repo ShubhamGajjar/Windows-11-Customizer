@@ -12,6 +12,7 @@ This project provides advanced customization settings for the **Windhawk app**, 
 - Windows Theme
 - Windows Explorer (via [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica))
 - Discord (via [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone))
+
 Unlock the full potential of Windows 11's interface and design it to suit your needs.
 
 
