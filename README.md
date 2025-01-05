@@ -11,7 +11,7 @@ This project provides advanced customization settings for the **Windhawk app**, 
 - Clock
 - Windows Theme
 - Windows Explorer (via [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica))
-
+- Discord (via [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone))
 Unlock the full potential of Windows 11's interface and design it to suit your needs.
 
 
@@ -86,6 +86,7 @@ Here are a few examples of the customizations in action:
 This project draws inspiration and support from:
 - [Windhawk](https://windhawk.net) for its powerful modding capabilities.
 - [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) for enabling stunning Mica blur effects in Windows Explorer.
+- [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) for adding Translucent background effect in Discord.
 
 
 ## Contributing
